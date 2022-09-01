@@ -1,4 +1,4 @@
-# Repo-for-Bootcamp-HW
+# Repo for Bootcamp Challenge Week 1
 This repository is to show changes and edits 
 made to the code behind the website for Horiseon Social 
 Solution Services , inc.
